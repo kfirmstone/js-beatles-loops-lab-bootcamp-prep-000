@@ -18,7 +18,7 @@ return output
 
  function iLoveTheBeatles(n){
   var beatles = []
-  do {beatles.push("I love the Beatles!")
+  do {beatles.push("I love the Beatles!");n++;
 }
 while (n<15)
 return beatles
